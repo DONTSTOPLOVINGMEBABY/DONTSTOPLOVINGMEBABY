@@ -6,7 +6,7 @@
 
 <br/><a href="https://www.linkedin.com/in/henry-jacobs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:henryjacobscode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
+<a href="https://henryjacobs.us/resume.pdf"><img src="https://henryjacobs.us/svg-assets/resume-img.jpg"></a>
 
 # 🔧 Technologies & Tools
 
@@ -160,6 +160,16 @@
     </td>
   </tr>
 </table>
+
+# 📈 Stats
+
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api?username=DONTSTOPLOVINGMEBABY&show_icons=true&theme=react&&hide_border=true"
+/> --> 
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
+/>
+<br/>
 
 
 <!--
