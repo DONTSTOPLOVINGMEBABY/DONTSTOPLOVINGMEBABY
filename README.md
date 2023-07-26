@@ -167,7 +167,7 @@
   src="https://github-readme-stats.vercel.app/api?username=DONTSTOPLOVINGMEBABY&show_icons=true&theme=react&&hide_border=true"
 /> --> 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=DONTSTOPLOVINGMEBABY&&theme=react&&hide_border=true"
 />
 <br/>
 
