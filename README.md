@@ -161,6 +161,8 @@
   </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONTSTOPLOVINGMEBABY&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DONTSTOPLOVINGMEBABY/github-readme-stats)
+
 <!--
 # 📈 Stats
  <img
