@@ -8,8 +8,19 @@
 <a href="mailto:henryjacobscode@gmail.com"><img src="./svgs/Green/HJ_GitHub_Icons-08.svg" height=25></a>
 <a href="https://hjacobs-rest-api-production.up.railway.app/henryjacobs/resume"><img src="./svgs/Yellow/HJ_GitHub_Icons-21.svg" height=25></a>
 
-# 🔧 Technologies & Tools
+# Most Recent Project
 
+I recently finished working on an open source feature flagging service called OSFT that allows developers to embed highly performant and scalable feature flags into their React and Javascript applications. Below is a demo of an OSFT client running in a React YouTube Clone I built. 
+
+<div align="center">
+  <img src="https://hjacobs-rest-api-production.up.railway.app/osft/1440-gif" alt="osft-demo" height=400/>
+</div>
+
+
+
+
+
+# 🔧 Technologies & Tools
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -32,12 +43,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://hjacobs-rest-api-production.up.railway.app/svgs/styled-components"
         width="48"
         height="48"
         alt="Material UI"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Styled Components</strong>
     </td>
      <td align="center" height="108" width="108">
       <img
@@ -160,6 +171,10 @@
     </td>
   </tr>
 </table>
+
+
+<br />
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DONTSTOPLOVINGMEBABY&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DONTSTOPLOVINGMEBABY/github-readme-stats)
 
