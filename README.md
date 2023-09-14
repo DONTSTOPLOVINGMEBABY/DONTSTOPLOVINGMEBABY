@@ -13,11 +13,11 @@
 I recently finished working on an open source feature flagging service called OSFT that allows developers to embed highly performant and scalable feature flags into their React and Javascript applications. Below is a demo of an OSFT client running in a React YouTube Clone I built. 
 
 <div align="left">
-  <a href="https://hjacobs-rest-api-production.up.railway.app/osft/raw-video-example"><img src="https://hjacobs-rest-api-production.up.railway.app/osft/1440-gif" alt="osft-demo" height=300/></a>
+    <a href="https://hjacobs-rest-api-production.up.railway.app/osft/raw-video-example"><img src="https://hjacobs-rest-api-production.up.railway.app/osft/1440-gif" alt="osft-demo" height=300/></a>
+   
 </div>
 
-
-
+##### [Use App](https://opensourcefeaturetoggles.com)
 
 
 # 🔧 Technologies & Tools
