@@ -1,7 +1,13 @@
 # Hello 👋
 
+<h3>Explore some things I have on the web</h3>
 
-### [Portfolio](https://henryjacobs.us)
+### [My Portfolio](https://henryjacobs.us)
+
+### [OSFT (Open Source Feature Toggles)](https://opensourcefeaturetoggles.com) 
+
+### [React-YouTube-Clone](https://henryjacobs.us/React-YouTube-Clone) 
+<!-- 
 
 ### What I've Been Working On Recently
 
@@ -14,3 +20,5 @@ I recently finished the first major release of an open source feature flagging s
 <b>[OSFT-JS-Client](https://github.com/DONTSTOPLOVINGMEBABY/OSFT-Client-API)</b>
 <br/>
 <br/>
+
+-->
