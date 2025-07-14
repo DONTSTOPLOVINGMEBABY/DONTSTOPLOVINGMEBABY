@@ -1,5 +1,9 @@
 # Hello 👋
 
+<h3>Currently working on custom books for children</h3>
+
+### [Wonder.love](https://wonder.love)
+
 <h3>Explore some things I have on the web</h3>
 
 ### [My Portfolio](https://henryjacobs.us)
