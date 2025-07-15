@@ -9,9 +9,9 @@
 ### [My Portfolio](https://henryjacobs.us)
 
 ### [OSFT (Open Source Feature Toggles)](https://opensourcefeaturetoggles.com) 
-
+<!--
 ### [React-YouTube-Clone](https://henryjacobs.us/React-YouTube-Clone) 
-<!-- 
+ 
 
 ### What I've Been Working On Recently
 
