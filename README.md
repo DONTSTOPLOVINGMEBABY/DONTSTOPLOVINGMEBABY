@@ -1,3 +1,3 @@
 # Hello 👋
 
-All of my links can be found on [henryjacobs.dev](https://henryjacobs.dev/r/github)!
+Check me out on [henryjacobs.dev](https://henryjacobs.dev/r/github)!
